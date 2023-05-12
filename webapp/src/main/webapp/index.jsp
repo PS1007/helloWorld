@@ -16,8 +16,8 @@
     <hr>
     <br>
 
-    <label for="Telephone"><b>Telephone</b></label>
-    <input type="text" placeholder="Telephone" name="Telephone" id="Telephone" required>
+    <label for="Telephones"><b>Telephones</b></label>
+    <input type="text" placeholder="Telephones" name="Telephones" id="Telephones" required>
     <hr>
     <br>
 
